@@ -1,0 +1,50 @@
+.mainDiv {
+   
+    width: 750px ;
+    height: 500px;
+    
+    position: absolute;
+    left: 16%;
+    /* right: 25%; */
+    /* bottom: 10%; */
+    top: 10%;
+    
+    border: solid 15px rgb(184, 214, 235);
+    background: rgb(148, 201, 208);
+    /* background: white; */
+}
+.timeToWork {
+    width: 100px;
+    height: 20px;
+    background: rgb(97, 166, 208);
+    position: absolute;
+    left: 42%;
+}
+.timer {
+    height: 20px;
+    width: 100px;
+    background: rgb(184, 214, 235);
+    border: solid 1px rgb(184, 214, 235);
+    position: absolute;
+    top:74%;
+    left: 43%;
+
+}
+.buttonStop{
+    background: rgb(208, 82, 82);
+    border: solid 4px rgb(173, 54, 70);
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    left: 55%;
+    top:80%
+}
+.buttonStart {
+    background: rgb(75, 217, 73);
+    border: solid 4px rgb(46, 151, 56);
+    width: 80px;
+    height: 25px;
+    position: absolute;
+    right: 55%;
+    top:80%
+}
